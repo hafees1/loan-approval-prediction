@@ -93,34 +93,9 @@ The model was trained using the processed training dataset and evaluated using a
 
 ## 📈 Results
 
-The trained model was able to predict loan approval status on unseen validation and test data after completing the preprocessing pipeline.
-
+* Achieved a **validation accuracy of 85.48%** using Logistic Regression.
+* Successfully predicted loan approval status on unseen validation and test data.
+* Built an end-to-end machine learning pipeline covering data preprocessing, model training, evaluation, and prediction.
+  
 ---
 
-## 📁 Repository Structure
-
-```
-├── loan_approval_prediction.ipynb
-├── README.md
-└── (dataset files)
-```
-
----
-
-## 📚 Key Learning Outcomes
-
-Through this project, I learned:
-
-* Building an end-to-end machine learning workflow
-* Performing Exploratory Data Analysis (EDA)
-* Handling missing values correctly
-* Preventing data leakage
-* Encoding categorical variables
-* Feature scaling
-* Training and evaluating classification models using Scikit-learn
-
----
-
-## ⚠️ Note
-
-This project was created for educational purposes using the original Kaggle dataset. Some features (such as demographic information) are included because they are part of the dataset. In real-world machine learning systems, sensitive features should be evaluated carefully for fairness, ethics, and compliance with applicable regulations before being used in decision-making models.
