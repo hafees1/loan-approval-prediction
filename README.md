@@ -1,5 +1,7 @@
 # 🏦 Loan Approval Prediction using Machine Learning
 
+![Bank Image](images/bank_image.png)
+
 ## 📌 Overview
 
 This project is an end-to-end machine learning pipeline that predicts whether a loan application will be approved based on an applicant's financial and personal information.
